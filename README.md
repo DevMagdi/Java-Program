@@ -1,4 +1,4 @@
-# WalMart Billing system
+# Sales Invoice Generator
 ## Requirements
 1. JTattoo.jar File
 
